@@ -1,4 +1,6 @@
 # card_swiper_demo
+卡片轮播demo
+
 
 > A Vue.js project
 

@@ -1,8 +1,6 @@
 # card_swiper_demo
-卡片轮播demo
 
-
-> A Vue.js project
+> 卡片轮播demo A Vue.js project
 
 ## Build Setup
 
